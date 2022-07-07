@@ -1,0 +1,5 @@
+id:int
+name:string
+age:int
+level:int
+address:string

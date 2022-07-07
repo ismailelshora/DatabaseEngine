@@ -1,0 +1,4 @@
+id:int
+name:string
+address:string
+major:string
